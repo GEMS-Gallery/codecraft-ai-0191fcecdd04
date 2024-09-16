@@ -1,0 +1,5 @@
+service : {
+  addUserName: (text) -> ();
+  generateName: () -> (text);
+  getUserNames: () -> (vec text) query;
+}
